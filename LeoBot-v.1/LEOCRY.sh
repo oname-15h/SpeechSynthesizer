@@ -1,0 +1,11 @@
+paplay D.wav
+paplay OW.wav
+paplay N.wav
+paplay T.wav
+paplay PAUSE.wav
+paplay L.wav
+paplay IY.wav
+paplay V.wav
+paplay PAUSE.wav
+paplay M.wav
+paplay IY.wav

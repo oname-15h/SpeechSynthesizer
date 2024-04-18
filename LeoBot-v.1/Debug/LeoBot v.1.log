@@ -1,0 +1,3 @@
+﻿  LeoBot v.1.cpp
+LeoBot v.1.obj : error LNK2019: unresolved external symbol __imp__PlaySoundW@12 referenced in function _main
+C:\Users\Account\source\repos\LeoBot v.1\Debug\LeoBot v.1.exe : fatal error LNK1120: 1 unresolved externals
